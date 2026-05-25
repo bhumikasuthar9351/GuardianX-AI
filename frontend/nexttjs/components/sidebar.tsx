@@ -46,6 +46,13 @@ export default function Sidebar() {
           Login
         </Link>
 
+        <Link
+          href="/chat"
+          className="flex items-center gap-3 hover:text-red-400"
+        >
+          AI Chat
+        </Link>
+
       </div>
 
     </div>
