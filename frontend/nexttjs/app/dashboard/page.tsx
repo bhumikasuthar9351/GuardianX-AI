@@ -45,7 +45,6 @@ export default function DashboardPage() {
     <div className="flex flex-col md:flex-row bg-gray-900 text-white min-h-screen">
 
       <Sidebar />
-<h1>Hello</h1>
       <div className="flex-1 p-10">
 
         <h1 className="text-4xl font-bold text-red-500 mb-10">
