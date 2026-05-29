@@ -76,7 +76,7 @@ export default function DashboardPage() {
       <div className="flex-1 p-10">
 
         <h1 className="text-5xl font-bold text-red-500">
-          GuardianX Dashboard
+          GuardianX Dashboard view
         </h1>
 
         <p className="text-gray-400 mt-3 text-lg">
