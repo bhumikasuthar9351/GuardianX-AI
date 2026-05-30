@@ -84,7 +84,7 @@ export default function DashboardPage() {
         </p>
 
       </div>
-
+ 
       {/* Top Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
 
@@ -142,7 +142,7 @@ export default function DashboardPage() {
 
         {/* AI Warnings */}
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-3xl shadow-2xl hover:scale-105 transition-all">
-
+  
           <div className="flex items-center justify-between">
 
             <div>
